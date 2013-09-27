@@ -17,8 +17,6 @@ pom.xml.*
 release.properties
 
 # IntelliJ
-.idea
-*.iml
 *.iws
 *.ipr
 classes
